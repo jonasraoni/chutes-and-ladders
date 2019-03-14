@@ -15,7 +15,7 @@ View the whole [problem statement](chutes-and-ladders.md).
 
 # Implementations
 ### [Solver1.js](alternatives/Solver1.js)
-The was my first atempt, I researched on Wikipedia and found a simple algorithm (breadth first search) that fit greatly, I got the implementation from there in Python and adapted to my case, it was executing in ~600msec
+This was my first atempt, I researched on Wikipedia and found a simple algorithm (breadth first search) that fit greatly, I got the implementation from there in Python and adapted to my case, it was executing in ~600msec
 
 ### [Solver2.js](alternatives/Solver3.js)
 I brushed the code a bit and got it to down to ~340msec
